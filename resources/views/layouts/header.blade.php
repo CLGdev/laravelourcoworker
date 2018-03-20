@@ -1,6 +1,6 @@
  @extends('layout')
 
- @section('content')
+ @section('header')
   <div class="bg transition">
         <div class="container-fluid fixed">
             <div class="row">
