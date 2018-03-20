@@ -1,6 +1,3 @@
- @extends('layout')
-
- @section('header')
   <div class="bg transition">
         <div class="container-fluid fixed">
             <div class="row">
@@ -59,4 +56,3 @@
             </div>
         </div>
     </div>
-    @endsection

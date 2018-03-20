@@ -28,7 +28,7 @@
 <body>
     <!--============================= HEADER =============================-->
     <div class="nav-menu">
-        @yield('header')
+        @include ('layouts.header')
     </div>
     <!-- SLIDER -->
     <section class="slider d-flex align-items-center">
