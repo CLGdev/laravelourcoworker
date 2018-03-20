@@ -19,6 +19,10 @@ Route::get('/layout', function () {
     return view('layout');
 });
 
+Route::get('/home', function () {
+    return view('pages.home');
+});
+
 Auth::routes();
 
 Route::get('/redirect', 'SocialAuthFacebookController@redirect');
