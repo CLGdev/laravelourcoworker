@@ -1,6 +1,6 @@
 @extends ('layout')
 
-@section ('homesearch')
+@section ('search')
    <!-- SLIDER -->
     <section class="slider d-flex align-items-center">
         <!-- <img src="images/slider.jpg" class="img-fluid" alt="#"> -->

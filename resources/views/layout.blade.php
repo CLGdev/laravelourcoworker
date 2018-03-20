@@ -30,7 +30,7 @@
     <div class="nav-menu">
         @include ('layouts.header')
     </div>
-        @yield ('homesearh')
+        @yield ('searh')
     <!--//END HEADER -->
     <!--============================= FIND PLACES =============================-->
     <section class="main-block">

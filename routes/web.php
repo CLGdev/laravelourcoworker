@@ -20,7 +20,7 @@ Route::get('/layout', function () {
 });
 
 Route::get('/search', function () {
-    return view('pages.home');
+    return view('pages.search');
 });
 
 Auth::routes();
