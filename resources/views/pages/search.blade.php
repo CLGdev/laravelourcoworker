@@ -11,8 +11,8 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="slider-content_wrap">
-                                    <h1>Discover great places in New york</h1>
-                                    <h5>Let's uncover the best places to eat, drink, and shop nearest to you.</h5>
+                                    <h1>A reliable recommendation letter</h1>
+                                    <h5>The real opinion about your next employee.</h5>
                                 </div>
                             </div>
                         </div>
