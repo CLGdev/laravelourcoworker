@@ -11,8 +11,8 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="slider-content_wrap">
-                                    <h1>A reliable recommendation letter</h1>
-                                    <h5>The real opinion about your next employee.</h5>
+                                    <h1>The trusted opinion about your new employee.</h1>
+                                    <h5>Don't ask for a recommendation letter any more, find yourself what they are saying about his work.</h5>
                                 </div>
                             </div>
                         </div>
