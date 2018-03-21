@@ -7,7 +7,7 @@
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-menu"></span>
           </button>
-                        <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+{{--                          <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                             <ul class="navbar-nav">
                                 <li class="nav-item dropdown">
                                     <a class="nav-link" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -47,8 +47,8 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">Blog</a>
-                                </li>
-                                <li><a href="#" class="btn btn-outline-light top-btn"><span class="ti-plus"></span> Add Listing</a></li>
+                                </li>  --}}
+                                <li><a href="#" class="btn btn-outline-light top-btn"><span class="ti-plus"></span> New Coworker</a></li>
                             </ul>
                         </div>
                     </nav>
