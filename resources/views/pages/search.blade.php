@@ -26,7 +26,7 @@
                                     </div>
                                 </form>
                                 <div class="slider-link">
-                                    <a href="#">Browse Popular</a><span>or</span> <a href="#">Recently Addred</a>
+                                    {{--  <a href="#">Browse Popular</a><span>or</span> <a href="#">Recently Addred</a>  --}}
                                 </div>
                             </div>
                         </div>
