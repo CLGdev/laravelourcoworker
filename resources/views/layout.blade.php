@@ -445,7 +445,7 @@
     <!--//END ADD LISTING -->
     <!--============================= FOOTER =============================-->
     <footer class="main-block dark-bg">
-        @include ('layout.footer')
+        @include ('layouts.footer')
     </footer>
     <!--//END FOOTER -->
 
