@@ -12,7 +12,7 @@
                             <div class="col-md-12">
                                 <div class="slider-content_wrap">
                                     <h1>What about your new employee.</h1>
-                                    <h5>Don't ask for a recommendation letter any more, find yourself what they are saying.</h5>
+                                    <h5>Don't ask for a recommendation letter any more.</h5>
                                 </div>
                             </div>
                         </div>
