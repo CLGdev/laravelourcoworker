@@ -1,6 +1,6 @@
 <!-- login.blade.php -->
 
-@extends('layouts.app')
+@extends('layouts')
 
 @section('content')
 <div class="container">
