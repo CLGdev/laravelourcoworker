@@ -9,6 +9,21 @@
           </button>
                         <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                               <ul class="navbar-nav">
+                                  
+                                @if (Route::has('login'))
+                                        @auth
+                                            <li class="nav-item">
+                                                <a href="{{ url('/home') }}">Home</a>
+                                            </li>
+                                        @else                                        
+                                            <li class="nav-item">
+                                                <a href="{{ route('login') }}">Login</a>
+                                            </li>                                        
+                                            <li class="nav-item">
+                                                <a href="{{ route('register') }}">Register</a>
+                                            </li>
+                                        @endauth
+                                @endif
 {{--                                <li class="nav-item dropdown">
                                     <a class="nav-link" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                  Explore
