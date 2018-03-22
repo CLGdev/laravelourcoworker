@@ -80,6 +80,11 @@ p {
    ============================================================== */
 
 // Navbar
+
+.bg.transition .fixed{  
+    background: #252a33
+  }
+  
 .nav-menu {
     position: absolute;
     z-index: 1;
