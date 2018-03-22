@@ -13,14 +13,14 @@
                                 @if (Route::has('login'))
                                         @auth
                                             <li class="nav-item">
-                                                <a href="{{ url('/home') }}">Home</a>
+                                                <a href="{{ url('/home') }}" class="nav-link" >Home</a>
                                             </li>
                                         @else                                        
                                             <li class="nav-item">
-                                                <a href="{{ route('login') }}">Login</a>
+                                                <a href="{{ route('login') }}" class="nav-link" >Login</a>
                                             </li>                                        
                                             <li class="nav-item">
-                                                <a href="{{ route('register') }}">Register</a>
+                                                <a href="{{ route('register') }}" class="nav-link" >Register</a>
                                             </li>
                                         @endauth
                                 @endif
