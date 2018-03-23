@@ -63,13 +63,18 @@ p {
 /* ==============================================================
    HEADER
    ============================================================== */
+
+.bg.transition .fixed{  
+  background: #252a33;
+}
 .nav-menu {
   position: absolute;
   z-index: 1;
   top: 0;
   right: 0;
   left: 0;
-  margin: 0 auto; }
+  margin: 0 auto; 
+  background: #252a33; }
 
 .nav-menu-2 {
   position: inherit; }
