@@ -18,7 +18,7 @@
                         </div>
                         <div class="row d-flex justify-content-center">
                             <div class="col-md-10">
-                                <form class="form-wrap mt-4">
+                                <form class="form-wrap mt-4" action="search">
                                     <div class="btn-group" role="group" aria-label="Basic example">
                                         <input type="text" placeholder="Name" class="btn-group1">
                                         <input type="text" placeholder="Job Position" class="btn-group2">
