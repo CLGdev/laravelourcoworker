@@ -40,7 +40,7 @@
 
 @section ('content')
 
-<section class="main-block">
+{{--  <section class="main-block">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-5">
@@ -129,9 +129,8 @@
             </div>
         </div>
     </div>
-    {{--  <iframe src="http://www.yougotlistings.com/client/searchLite.php?id=730" width="960" height="500"> <p>Your browser does not support iframes.</p> </iframe>  --}}
 </section>
-<!--//END FIND PLACES -->
+  --}}<!--//END FIND PLACES -->
 <!--============================= FEATURED PLACES =============================-->
 <section class="main-block light-bg">
     <div class="container">
